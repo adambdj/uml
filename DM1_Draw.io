@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T17:19:48.218Z" agent="5.0 (Windows)" etag="UM3kHZzzBlQ3M8vhXxh2" version="13.7.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-10-03T17:28:15.793Z" agent="5.0 (Windows)" etag="QVh_4rxA22lZM1LomgQP" version="13.7.7" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Exo1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -268,6 +268,9 @@
         </mxCell>
         <mxCell id="M44MDkN51i6KVmsMnihV-44" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="M44MDkN51i6KVmsMnihV-39" vertex="1">
           <mxGeometry y="78" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="L526VIDXra_07_IvYSkg-0" value="&lt;h1&gt;1. Les étudiants, leurs livres et leur université&lt;br&gt;&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="40" y="50" width="700" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
