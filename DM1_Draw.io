@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T17:16:28.127Z" agent="5.0 (Windows)" etag="78VFkAAmIXorN0Gd_lr4" version="13.7.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-10-03T17:19:48.218Z" agent="5.0 (Windows)" etag="UM3kHZzzBlQ3M8vhXxh2" version="13.7.7" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Exo1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -97,7 +97,7 @@
         </mxCell>
         <mxCell id="M44MDkN51i6KVmsMnihV-25" value="assiste" style="text;html=1;resizable=0;points=[];;align=center;verticalAlign=middle;labelBackgroundColor=none;rounded=0;shadow=0;strokeWidth=1;fontSize=12;" parent="M44MDkN51i6KVmsMnihV-22" vertex="1" connectable="0">
           <mxGeometry x="0.5" y="49" relative="1" as="geometry">
-            <mxPoint x="-69" y="-30" as="offset" />
+            <mxPoint x="-72" y="-30" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M44MDkN51i6KVmsMnihV-27" value="1" style="resizable=0;align=right;verticalAlign=bottom;labelBackgroundColor=none;fontSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" connectable="0" vertex="1">
