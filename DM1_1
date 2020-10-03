@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T16:56:25.744Z" agent="5.0 (Windows)" etag="GiwVAszFPz8ysx61zajk" version="13.7.7" type="github">
-  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+<mxfile host="app.diagrams.net" modified="2020-10-03T17:16:28.127Z" agent="5.0 (Windows)" etag="78VFkAAmIXorN0Gd_lr4" version="13.7.7" type="github" pages="10">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Exo1">
     <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -269,6 +269,78 @@
         <mxCell id="M44MDkN51i6KVmsMnihV-44" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="M44MDkN51i6KVmsMnihV-39" vertex="1">
           <mxGeometry y="78" width="160" height="8" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="il9HAen1GBQAzqx5gJ4x" name="Exo2">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="p3gybNMPPSJX-v69nsU_-0" />
+        <mxCell id="p3gybNMPPSJX-v69nsU_-1" parent="p3gybNMPPSJX-v69nsU_-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="PPvYVBzgmwSeUOsTMpdS" name="Exo3">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="oO5t3uyZOhHTrB9Q2aQO-0" />
+        <mxCell id="oO5t3uyZOhHTrB9Q2aQO-1" parent="oO5t3uyZOhHTrB9Q2aQO-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="V_7iz9JQHbuPqlyCos06" name="Exo4">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LglgIeBA5YPoWjVbwfuH-0" />
+        <mxCell id="LglgIeBA5YPoWjVbwfuH-1" parent="LglgIeBA5YPoWjVbwfuH-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="QBdz2oCMmwzJ9rV7lBFz" name="Exo5">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="t-1JIIeuJ4rxZVvJqyUm-0" />
+        <mxCell id="t-1JIIeuJ4rxZVvJqyUm-1" parent="t-1JIIeuJ4rxZVvJqyUm-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="fz-LoJgT8LBPOLZ1aq-B" name="Exo6">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="1wi5buUgfZi2HoycGJqc-0" />
+        <mxCell id="1wi5buUgfZi2HoycGJqc-1" parent="1wi5buUgfZi2HoycGJqc-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="f6u_nwghtSZOgJZSnL6E" name="Exo7">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0UXTBiC3q25-lIefrF6P-0" />
+        <mxCell id="0UXTBiC3q25-lIefrF6P-1" parent="0UXTBiC3q25-lIefrF6P-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7f3oXb_fQKhqiqC0GGkF" name="Exo8">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="LYqZUnO0mPp2gnx50tLE-0" />
+        <mxCell id="LYqZUnO0mPp2gnx50tLE-1" parent="LYqZUnO0mPp2gnx50tLE-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="skRjrzqJNVFI7eiDyfIX" name="Exo9">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5CO4TA5-Z_wmZqhFtSMs-0" />
+        <mxCell id="5CO4TA5-Z_wmZqhFtSMs-1" parent="5CO4TA5-Z_wmZqhFtSMs-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="yqSvao_eORu9haSWcTIs" name="Exo10">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="sMevVDDs1i04fuvzajl--0" />
+        <mxCell id="sMevVDDs1i04fuvzajl--1" parent="sMevVDDs1i04fuvzajl--0" />
       </root>
     </mxGraphModel>
   </diagram>
