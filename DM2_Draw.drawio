@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T22:16:08.282Z" agent="5.0 (Windows)" etag="EtEETzB5-MQEonwDebse" version="13.7.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-04T22:27:32.134Z" agent="5.0 (Windows)" etag="7_2xFvkyteT43HSLeJqU" version="13.7.7" type="github" pages="5">
   <diagram id="XPK430pW-87LbYbgTx8C" name="Exo2">
     <mxGraphModel dx="764" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -462,6 +462,59 @@
         </mxCell>
         <mxCell id="snx0CzM3GXJwiEqFnY43-3" value="Médiathèque" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="V91L3RzNmrdoR9TFe7J2-1">
           <mxGeometry x="540" y="130" width="80" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="3y-viltJmXGJkrnOqieM" name="Exo6">
+    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5n1B_mhEXrgJCH1Gs5gm-0" />
+        <mxCell id="5n1B_mhEXrgJCH1Gs5gm-1" parent="5n1B_mhEXrgJCH1Gs5gm-0" />
+        <mxCell id="2uO226YVr9AM6aFx9OP4-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;targetPerimeterSpacing=7;strokeColor=none;" edge="1" parent="5n1B_mhEXrgJCH1Gs5gm-1" source="2uO226YVr9AM6aFx9OP4-4" target="2uO226YVr9AM6aFx9OP4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;targetPerimeterSpacing=7;startArrow=none;startFill=0;" edge="1" parent="5n1B_mhEXrgJCH1Gs5gm-1" source="2uO226YVr9AM6aFx9OP4-4" target="2uO226YVr9AM6aFx9OP4-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="335" />
+              <mxPoint x="140" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;targetPerimeterSpacing=7;" edge="1" parent="5n1B_mhEXrgJCH1Gs5gm-1" source="2uO226YVr9AM6aFx9OP4-4" target="2uO226YVr9AM6aFx9OP4-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="335" />
+              <mxPoint x="140" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-4" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="5n1B_mhEXrgJCH1Gs5gm-1">
+          <mxGeometry x="40" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-5" value="&lt;div&gt;Louer un DVD&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="5n1B_mhEXrgJCH1Gs5gm-1">
+          <mxGeometry x="220" y="200" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-7" value="Rendre un DVD" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="5n1B_mhEXrgJCH1Gs5gm-1">
+          <mxGeometry x="220" y="410" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-11" value="Rechercher un DVD" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="5n1B_mhEXrgJCH1Gs5gm-1">
+          <mxGeometry x="470" y="295" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-12" value="&amp;lt;&amp;lt;includes&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="5n1B_mhEXrgJCH1Gs5gm-1" source="2uO226YVr9AM6aFx9OP4-5" target="2uO226YVr9AM6aFx9OP4-11">
+          <mxGeometry x="0.0119" width="160" relative="1" as="geometry">
+            <mxPoint x="263" y="180" as="sourcePoint" />
+            <mxPoint x="484" y="300" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-22" value="" style="html=1;fillColor=none;" vertex="1" parent="5n1B_mhEXrgJCH1Gs5gm-1">
+          <mxGeometry x="110" y="120" width="510" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="2uO226YVr9AM6aFx9OP4-23" value="Distributeur automatique de DVD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="5n1B_mhEXrgJCH1Gs5gm-1">
+          <mxGeometry x="430" y="130" width="190" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
