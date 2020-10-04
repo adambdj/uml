@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T22:01:26.390Z" agent="5.0 (Windows)" etag="c_nWMx_iJaXtgkekPf-J" version="13.7.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-10-04T22:16:08.282Z" agent="5.0 (Windows)" etag="EtEETzB5-MQEonwDebse" version="13.7.7" type="github" pages="4">
   <diagram id="XPK430pW-87LbYbgTx8C" name="Exo2">
     <mxGraphModel dx="764" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -371,7 +371,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FQYNcRnV013YaTTWkHqU-0" value="Médiathécaire" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="V91L3RzNmrdoR9TFe7J2-1">
-          <mxGeometry x="70" y="305" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="300" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FQYNcRnV013YaTTWkHqU-2" value="&lt;div&gt;Gérer oeuvres&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="V91L3RzNmrdoR9TFe7J2-1">
           <mxGeometry x="220" y="180" width="140" height="70" as="geometry" />
@@ -385,8 +385,8 @@
         <mxCell id="dtsNevgD07rDuktHUhuN-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;targetPerimeterSpacing=7;" edge="1" parent="V91L3RzNmrdoR9TFe7J2-1" source="dtsNevgD07rDuktHUhuN-6" target="dtsNevgD07rDuktHUhuN-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dtsNevgD07rDuktHUhuN-6" value="Gestionnaire des contentieux" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="V91L3RzNmrdoR9TFe7J2-1">
-          <mxGeometry x="70" y="510" width="30" height="60" as="geometry" />
+        <mxCell id="dtsNevgD07rDuktHUhuN-6" value="Gestionnaire &lt;br&gt;des &lt;br&gt;contentieux" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="V91L3RzNmrdoR9TFe7J2-1">
+          <mxGeometry x="40" y="510" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dtsNevgD07rDuktHUhuN-8" value="Gérer contentieux" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="V91L3RzNmrdoR9TFe7J2-1">
           <mxGeometry x="220" y="540" width="140" height="70" as="geometry" />
@@ -456,6 +456,12 @@
             <mxPoint x="350" y="478.98" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="snx0CzM3GXJwiEqFnY43-0" value="" style="html=1;fillColor=none;" vertex="1" parent="V91L3RzNmrdoR9TFe7J2-1">
+          <mxGeometry x="110" y="130" width="510" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="snx0CzM3GXJwiEqFnY43-3" value="Médiathèque" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="V91L3RzNmrdoR9TFe7J2-1">
+          <mxGeometry x="540" y="130" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
