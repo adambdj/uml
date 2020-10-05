@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T23:56:16.107Z" agent="5.0 (Windows)" etag="A3QFUs60RPMkFpL9Qhi0" version="13.7.7" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-10-05T00:04:44.543Z" agent="5.0 (Windows)" etag="2swCNFiVeRhnthafe5ln" version="13.7.7" type="github" pages="10">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Exo1">
     <mxGraphModel dx="764" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -425,7 +425,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="PPvYVBzgmwSeUOsTMpdS" name="Exo3">
-    <mxGraphModel dx="1550" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="524" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="oO5t3uyZOhHTrB9Q2aQO-0" />
         <mxCell id="oO5t3uyZOhHTrB9Q2aQO-1" parent="oO5t3uyZOhHTrB9Q2aQO-0" />
@@ -485,9 +485,6 @@
         </mxCell>
         <mxCell id="jhoebUSC4AuTWXuyFKqV-34" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="oO5t3uyZOhHTrB9Q2aQO-1" vertex="1">
           <mxGeometry x="120" y="380" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="jhoebUSC4AuTWXuyFKqV-45" value="&lt;i&gt;&amp;lt;---- compo ou agrégation?&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="oO5t3uyZOhHTrB9Q2aQO-1" vertex="1">
-          <mxGeometry x="165" y="390" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="jhoebUSC4AuTWXuyFKqV-46" value="1" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=bottom;" parent="oO5t3uyZOhHTrB9Q2aQO-1" source="jhoebUSC4AuTWXuyFKqV-0" target="jhoebUSC4AuTWXuyFKqV-16" edge="1">
           <mxGeometry x="-0.3243" y="-2" relative="1" as="geometry">
