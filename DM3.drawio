@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T15:12:58.931Z" agent="5.0 (X11)" etag="1rUhWaKZ5VmdqdWmWV1c" version="13.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-23T16:11:04.625Z" agent="5.0 (X11)" etag="dMiyyacKQn-mW3a8PzpK" version="13.8.1" type="github" pages="8">
   <diagram id="HV5kKddLRugSyzAF9fCm" name="Exo1">
     <mxGraphModel dx="1102" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -110,12 +110,79 @@
     </mxGraphModel>
   </diagram>
   <diagram id="p9qsDEUjH-XaslN2hBxg" name="Exo2">
-    <mxGraphModel dx="1342" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1579" dy="709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="R-h8qjlxcC2oMu-pBreQ-0" />
         <mxCell id="R-h8qjlxcC2oMu-pBreQ-1" parent="R-h8qjlxcC2oMu-pBreQ-0" />
-        <mxCell id="NQFwFCpYRyOcx_QuNH2l-0" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
+        <mxCell id="NQFwFCpYRyOcx_QuNH2l-0" value="Personne&lt;br&gt;externe" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
           <mxGeometry x="90" y="190" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-5" value="G: Gestionnaire" style="html=1;" vertex="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
+          <mxGeometry x="290" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-6" value="P: Personne" style="html=1;" vertex="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
+          <mxGeometry x="460" y="335" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
+          <mxGeometry x="340" y="320" width="10" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="R-h8qjlxcC2oMu-pBreQ-1" source="o3SBoq_cmOCitRwnOu_5-5" target="o3SBoq_cmOCitRwnOu_5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-9" value="addPersonne(nom : String, prenom : String)" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="R-h8qjlxcC2oMu-pBreQ-1" target="o3SBoq_cmOCitRwnOu_5-7">
+          <mxGeometry x="-0.0046" width="80" relative="1" as="geometry">
+            <mxPoint x="110" y="340" as="sourcePoint" />
+            <mxPoint x="291.7099999999999" y="339.75" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-15" value="Personne()" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.129;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="R-h8qjlxcC2oMu-pBreQ-1" target="o3SBoq_cmOCitRwnOu_5-6">
+          <mxGeometry x="-0.0046" width="80" relative="1" as="geometry">
+            <mxPoint x="349.99999999999994" y="360" as="sourcePoint" />
+            <mxPoint x="460" y="360" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
+          <mxGeometry x="510" y="410" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="R-h8qjlxcC2oMu-pBreQ-1" target="o3SBoq_cmOCitRwnOu_5-16" source="o3SBoq_cmOCitRwnOu_5-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="594" y="390" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-18" value="setNom(nom : String)" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.129;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="R-h8qjlxcC2oMu-pBreQ-1" target="o3SBoq_cmOCitRwnOu_5-16">
+          <mxGeometry x="-0.0046" width="80" relative="1" as="geometry">
+            <mxPoint x="350" y="420" as="sourcePoint" />
+            <mxPoint x="460" y="420" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-19" value="setPrenom(prenom : String)" style="html=1;verticalAlign=bottom;endArrow=block;exitX=1.129;exitY=0.289;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
+          <mxGeometry x="-0.0046" width="80" relative="1" as="geometry">
+            <mxPoint x="350" y="470" as="sourcePoint" />
+            <mxPoint x="510" y="470" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-20" value="&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;Il est important de noter qu&#39;un &lt;em&gt;message asynchrone&lt;/em&gt; ne possède pas de valeur de retour.&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px&quot;&gt;&lt;font style=&quot;font-size: 15px&quot;&gt;&lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;Donc mutateurs (methodes sets) = message asynchrone.&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
+          <mxGeometry x="170" y="670" width="600" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="o3SBoq_cmOCitRwnOu_5-22" value="enregistrer(p : Personne)" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;entryX=1.2;entryY=0.817;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" target="o3SBoq_cmOCitRwnOu_5-7" parent="R-h8qjlxcC2oMu-pBreQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="375" y="500" />
+              <mxPoint x="375" y="557" />
+            </Array>
+            <mxPoint x="424" y="565" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I2zjggu3OXRuHu6tSgc2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=none;endFill=0;" edge="1" parent="R-h8qjlxcC2oMu-pBreQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="290" as="sourcePoint" />
+            <mxPoint x="105" y="630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
