@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-23T16:54:22.941Z" agent="5.0 (X11)" etag="sAJ04JXvr9wilQzIQGON" version="13.8.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-23T16:57:27.445Z" agent="5.0 (X11)" etag="OgAKcOxiCrWPofpYwbW5" version="13.8.1" type="github" pages="8">
   <diagram id="HV5kKddLRugSyzAF9fCm" name="Exo1">
     <mxGraphModel dx="1102" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -341,7 +341,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KhvrGZGhNOWaTNJ8XcUu" name="Exo4">
-    <mxGraphModel dx="663" dy="603" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1219" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="a9GaHYNcKUTUBfI8RwD7-0" />
         <mxCell id="a9GaHYNcKUTUBfI8RwD7-1" parent="a9GaHYNcKUTUBfI8RwD7-0" />
@@ -352,7 +352,7 @@
           <mxGeometry x="120" y="189" width="10" height="401" as="geometry" />
         </mxCell>
         <mxCell id="Wzca4U9fxrGHkTqLPkp_-2" value="G : Gestionnaire de documents" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="a9GaHYNcKUTUBfI8RwD7-1">
-          <mxGeometry x="310" y="129" width="100" height="461" as="geometry" />
+          <mxGeometry x="310" y="120" width="100" height="460" as="geometry" />
         </mxCell>
         <mxCell id="Wzca4U9fxrGHkTqLPkp_-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Wzca4U9fxrGHkTqLPkp_-2">
           <mxGeometry x="45" y="85" width="10" height="225" as="geometry" />
@@ -370,7 +370,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Wzca4U9fxrGHkTqLPkp_-6" value="D : Document" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="a9GaHYNcKUTUBfI8RwD7-1">
-          <mxGeometry x="440" y="129" width="100" height="461" as="geometry" />
+          <mxGeometry x="440" y="129" width="100" height="451" as="geometry" />
         </mxCell>
         <mxCell id="Wzca4U9fxrGHkTqLPkp_-7" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Wzca4U9fxrGHkTqLPkp_-6">
           <mxGeometry x="45" y="160" width="10" height="40" as="geometry" />
@@ -379,7 +379,7 @@
           <mxGeometry x="45" y="281" width="10" height="159" as="geometry" />
         </mxCell>
         <mxCell id="Wzca4U9fxrGHkTqLPkp_-9" value="I : Imprimante" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;" vertex="1" parent="a9GaHYNcKUTUBfI8RwD7-1">
-          <mxGeometry x="590" y="129" width="100" height="461" as="geometry" />
+          <mxGeometry x="590" y="140" width="100" height="461" as="geometry" />
         </mxCell>
         <mxCell id="Wzca4U9fxrGHkTqLPkp_-10" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;" vertex="1" parent="Wzca4U9fxrGHkTqLPkp_-9">
           <mxGeometry x="45" y="200" width="10" height="250" as="geometry" />
